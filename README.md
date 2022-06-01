@@ -1,6 +1,6 @@
 HTML CSS NFT SITE static
 
-demo:
+demo: https://michaljakubhoppe.github.io/NFT-website-static/
 
 What Ive learnt:
 adding  semantic HTML to make the site more accessible,
